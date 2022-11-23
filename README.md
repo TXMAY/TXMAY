@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=TXMAY&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20github%20:\)&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=200&text=TXMAY&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20github%20:\)&descAlign=70.&descAlignY=44)
 ### Hi there 👋
 My name is TXMAY, and I'm attending a Busan Software Meister High School.
 ***
