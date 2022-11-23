@@ -1,4 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=TXMAY&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20github%20:\)&descAlign=70.&descAlignY=44)
 ### Hi there 👋
+My name is TXMAY, and I'm attending a Busan Software Meister High School.
+***
+### My stats 📊
+![TXMAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=txmay&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juya6388king)](https://solved.ac/juya6388king)
+
+
 
 <!--
 **TXMAY/TXMAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
