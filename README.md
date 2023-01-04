@@ -10,6 +10,11 @@ My name is TXMAY, and I'm attending a Busan Software Meister High School.
 </div>
 
 ***
+### Interested in
+
+<img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/assets/624ffbbc21542a00126f790b/GameMakerlogo.png" width="25%" />
+
+***
 ### Other 🔗
 <a href="https://txmay.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/></a>
 <!-- ![TXMAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=txmay&show_icons=true&theme=graywhite){width="50%"}
