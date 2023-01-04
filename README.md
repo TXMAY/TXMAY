@@ -10,7 +10,7 @@ My name is TXMAY, and I'm attending a Busan Software Meister High School.
 </div>
 
 ***
-### Interested in
+### Interested in 🤔
 
 <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/assets/624ffbbc21542a00126f790b/GameMakerlogo.png" width="25%" />
 
