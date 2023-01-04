@@ -6,8 +6,10 @@ My name is TXMAY, and I'm attending a Busan Software Meister High School.
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=txmay&show_icons=true&theme=graywhite" width="45%"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juya6388king" width="36.5%"/>
+  <input type="hidden" />
 </div>
-### Other
+
+### Other 🔗🔗
 ***
 <a href="https://txmay.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/></a>
 <!-- ![TXMAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=txmay&show_icons=true&theme=graywhite){width="50%"}
