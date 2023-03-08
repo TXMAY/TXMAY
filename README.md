@@ -15,7 +15,7 @@ My name is TXMAY, and I'm attending a Busan Software Meister High School.
 <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/assets/624ffbbc21542a00126f790b/GameMakerlogo.png" width="25%" />
 
 ### Other 🔗
-<a href="https://velog.io/@txmay" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&logoColor=20C997"/></a> 
+<a href="https://velog.io/@txmay" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=for-the-badge&logo=Velog&logoColor=20C997"/></a> 
 
 
 <!--
