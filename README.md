@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=TXMAY&fontAlign=70&rotate=13&fontAlignY=25&desc=welcome%20to%20my%20github%20:\)&descAlign=70&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=300&text=TXMAY&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20github!&descAlignY=51&descAlign=56)
 ### Hi there 👋
 My name is TXMAY, and I'm attending a Busan Software Meister High School.
 ***
@@ -6,6 +6,7 @@ My name is TXMAY, and I'm attending a Busan Software Meister High School.
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=txmay&show_icons=true&theme=graywhite" width="45%"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juya6388king" width="36.5%"/>
+  <img src="https://www.codewars.com/users/TXMAY/badges/large" />
   <input type="hidden" />
 </div>
 
