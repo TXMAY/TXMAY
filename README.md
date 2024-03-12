@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=300&text=TXMAY&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome%20to%20my%20github!&descAlignY=51&descAlign=56)
 ### Hi there 👋
-My name is TXMAY, and I'm attending a Busan Software Meister High School.
+My name is TXMAY, and I'm graduate a Busan Software Meister High School.
 ***
 ### My stats 📊
 <div>
