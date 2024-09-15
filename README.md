@@ -20,6 +20,9 @@ My name is TXMAY, and I'm studying game development.
 <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=txmay)](https://velog.io/@txmay)
 
+<br>
+![](https://raw.githubusercontent.com/TXMAY/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **TXMAY/TXMAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
