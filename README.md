@@ -21,6 +21,7 @@ My name is TXMAY, and I'm studying game development.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=txmay)](https://velog.io/@txmay)
 
 <br>
+
 ![](https://raw.githubusercontent.com/TXMAY/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 
